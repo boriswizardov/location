@@ -1,7 +1,6 @@
 {
 	"name": "lukarin",
 	"description": "top1", // description, will be shown in menu
-	"update_timestamp": 1596507260, // update timestamp, will be shown in menu
 	"locations": {
   "cs_agency": [
     {
