@@ -1,8 +1,4 @@
-{
-	"name": "lukarin"
-	"description": "top1", // description, will be shown in menu
-	"locations": { "cs_agency": [
-    {
+ {
       "name": ["Unnamed", "Hall [Far]"],
       "weapon": "weapon_hegrenade",
       "position": [-1130.0054931641, 152.48866271973, 320.03125],
