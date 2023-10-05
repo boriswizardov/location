@@ -2,11 +2,7 @@
 	"name": "lukarin",
 	"description": "top1", // description, will be shown in menu
 	"update_timestamp": 1596507260, // update timestamp, will be shown in menu
-	// url where to get the map data from, %map% will be replaced with the map name
-	// a map will always be fetched when loading. Content-Type is ignored but status has to be 200 OK
-	"url_format": "https://raw.githubusercontent.com/sapphyrus/helper/master/maps/%map%",
-	"locations":
-{
+	"locations": {
   "cs_agency": [
     {
       "name": ["Unnamed", "Hall [Far]"],
